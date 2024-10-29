@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skillBridgeee/static/css/main.f256c1cd.css",
+    "main.js": "/skillBridgeee/static/js/main.376153ed.js",
+    "static/media/gallayr3.jpg": "/skillBridgeee/static/media/gallayr3.9a839e825d55a2b55978.jpg",
+    "static/media/about.jpg": "/skillBridgeee/static/media/about.7ec7fd8ac081e476bd6a.jpg",
+    "static/media/gallayr1.jpg": "/skillBridgeee/static/media/gallayr1.9090c18b09a0dc42fb9b.jpg",
+    "static/media/gallayr4.jpg": "/skillBridgeee/static/media/gallayr4.e926e8c09a59e0c84527.jpg",
+    "static/media/program1.jpg": "/skillBridgeee/static/media/program1.aaa46d360090277ce75a.jpg",
+    "static/media/program2.jpg": "/skillBridgeee/static/media/program2.9c14c31d2d178daad494.jpg",
+    "static/media/program-3-C0g4YULi.png": "/skillBridgeee/static/media/program-3-C0g4YULi.73a816ab56c0a6e457d6.png",
+    "static/media/gallayr2.jpg": "/skillBridgeee/static/media/gallayr2.c3da2ddaf31f03dc7260.jpg",
+    "static/media/Hero.jpg": "/skillBridgeee/static/media/Hero.6be7a157559e4c405769.jpg",
+    "static/media/user-2-UK2CIdqi.png": "/skillBridgeee/static/media/user-2-UK2CIdqi.b22c59baa927c1be0d2e.png",
+    "static/media/user-4-njZdDe5j.png": "/skillBridgeee/static/media/user-4-njZdDe5j.50ce69a0306667eba2c1.png",
+    "index.html": "/skillBridgeee/index.html",
+    "main.f256c1cd.css.map": "/skillBridgeee/static/css/main.f256c1cd.css.map",
+    "main.376153ed.js.map": "/skillBridgeee/static/js/main.376153ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f256c1cd.css",
+    "static/js/main.376153ed.js"
+  ]
+}
